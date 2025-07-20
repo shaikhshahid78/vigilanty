@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-  <title>Shaikh Shahid | Pharmacist & AI Content Creator</title>
 
-    table, th, td { border: 1px solid #dae1e7; }
-    th, td { padding: 0.7rem; text-align: left; }
-    th { background: #f5f6fa; }
-    .footer { background: #303681; color: #fff; text-align: center; padding: 1rem 0; margin-top: 2rem; border-radius: 0 0 12px 12px; }
-    @media (max-width:600px) {
-      .container { padding: 1rem; }
-      nav a { padding: 0.7rem 1rem; }
-    }
-  </style>
-</head>
-<body>
-  <header>
     <h1>Shaikh Shahid</h1>
     <p>Pharmacist | AI Content Creator | Graphic Designer | YouTube: Legendary Studios</p>
   </header>
