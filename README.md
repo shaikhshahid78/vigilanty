@@ -1,6 +1,5 @@
-
-    <h1>Shaikh Shahid</h1>
-    <p>Pharmacist | AI Content Creator | Graphic Designer | YouTube: Legendary Studios</p>
+<h1>Shaikh Shahid</h1>
+<p>Pharmacist | AI Content Creator | Graphic Designer | YouTube: Legendary Studios</p>
   </header>
   <nav>
     <a href="#about">About</a>
