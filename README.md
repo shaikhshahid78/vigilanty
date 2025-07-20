@@ -1,16 +1,6 @@
 <!DOCTYPE html>
   <title>Shaikh Shahid | Pharmacist & AI Content Creator</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #f6f9fa; color: #222; line-height: 1.6; }
-    header { background: #222849; color: #fff; text-align: center; padding: 2rem 0; }
-    nav { background: #303681; text-align: center; }
-    nav a { display: inline-block; padding: 1rem 2rem; color: #fff; text-decoration: none; font-weight: bold; }
-    nav a:hover { background: #222; }
-    .container { max-width: 900px; margin: 2rem auto; background: #fff; padding: 2rem; border-radius: 12px; box-shadow: 0 3px 8px rgba(40,50,60,0.07); }
-    h1, h2, h3 { color: #222849; }
-    .about, .services, .portfolio, .youtube, .contact { margin-bottom: 3rem; }
-    ul { padding-left: 1.6rem; }
-    table { border-collapse: collapse; width: 100%; margin-bottom: 2rem; }
+
     table, th, td { border: 1px solid #dae1e7; }
     th, td { padding: 0.7rem; text-align: left; }
     th { background: #f5f6fa; }
